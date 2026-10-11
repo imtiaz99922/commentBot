@@ -1,6 +1,6 @@
 # Intelligent Social Bot
 
-Python backend, organized frontend, and database persistence for the BRAC CSE400 chatbot.
+Python backend, organized frontend, and database persistence for the  chatbot.
 
 The project uses a dependency-light threaded HTTP server rather than FastAPI. Cloud AI
 providers are optional: with no keys configured, deterministic local fallbacks keep the
